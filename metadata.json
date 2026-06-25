@@ -1,0 +1,6 @@
+{
+  "name": "Ndururuno Secondary School",
+  "description": "The official, prestigious website for Ndururuno Secondary School in Huruma, Nairobi. Exploring excellence in academic achievement, character development, and community spirit.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
